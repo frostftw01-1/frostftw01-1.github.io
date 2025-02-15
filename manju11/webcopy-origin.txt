@@ -1,0 +1,48 @@
+Uri: https://cdn.prod.website-files.com/67ae3e5645699fcf6494d135/67ae3e5645699fcf6494d13c_Geist-SemiBold.woff2
+File Name: C:\Downloaded Web Sites\frostftw01-1.github.io\67ae3e5645699fcf6494d135\67ae3e5645699fcf6494d13c_Geist-SemiBold.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdn.prod.website-files.com/67ae3e5645699fcf6494d135/67ae3e5645699fcf6494d13d_Geist-Black.woff2
+File Name: C:\Downloaded Web Sites\frostftw01-1.github.io\67ae3e5645699fcf6494d135\67ae3e5645699fcf6494d13d_Geist-Black.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdn.prod.website-files.com/67ae3e5645699fcf6494d135/67ae3e5645699fcf6494d141_Geist-Medium.woff2
+File Name: C:\Downloaded Web Sites\frostftw01-1.github.io\67ae3e5645699fcf6494d135\67ae3e5645699fcf6494d141_Geist-Medium.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdn.prod.website-files.com/67ae3e5645699fcf6494d135/67ae3e5645699fcf6494d142_Geist-Bold.woff2
+File Name: C:\Downloaded Web Sites\frostftw01-1.github.io\67ae3e5645699fcf6494d135\67ae3e5645699fcf6494d142_Geist-Bold.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdn.prod.website-files.com/67ae3e5645699fcf6494d135/67ae3e5645699fcf6494d143_Geist-Regular.woff2
+File Name: C:\Downloaded Web Sites\frostftw01-1.github.io\67ae3e5645699fcf6494d135\67ae3e5645699fcf6494d143_Geist-Regular.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdn.prod.website-files.com/67ae3e5645699fcf6494d135/67ae3e5645699fcf6494d14a_Geist-Light.woff2
+File Name: C:\Downloaded Web Sites\frostftw01-1.github.io\67ae3e5645699fcf6494d135\67ae3e5645699fcf6494d14a_Geist-Light.woff2
+Content Type: application/octet-stream
+
+Uri: https://frostftw01-1.github.io/manju/
+File Name: C:\Downloaded Web Sites\frostftw01-1.github.io\manju\index.htm
+Content Type: text/html
+
+Uri: https://frostftw01-1.github.io/manju/css/webflow-style.css
+File Name: C:\Downloaded Web Sites\frostftw01-1.github.io\manju\css\webflow-style.css
+Content Type: text/css
+
+Uri: https://frostftw01-1.github.io/manju/images/app-icon.png
+File Name: C:\Downloaded Web Sites\frostftw01-1.github.io\manju\images\app-icon.png
+Content Type: image/png
+
+Uri: https://frostftw01-1.github.io/manju/images/favicon.png
+File Name: C:\Downloaded Web Sites\frostftw01-1.github.io\manju\images\favicon.png
+Content Type: image/png
+
+Uri: https://frostftw01-1.github.io/manju/js/jquery.js
+File Name: C:\Downloaded Web Sites\frostftw01-1.github.io\manju\js\jquery.js
+Content Type: application/javascript
+
+Uri: https://frostftw01-1.github.io/manju/js/webflow-script.js
+File Name: C:\Downloaded Web Sites\frostftw01-1.github.io\manju\js\webflow-script.js
+Content Type: application/javascript
+
